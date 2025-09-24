@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4F46E5&center=true&width=500&lines=¡Hola!+Soy+Afmastro;Desarrollador+Backend;Apasionado+por+Python+y+Django" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4F46E5&center=true&width=500&lines=¡Hola!+Soy+Andres;Desarrollador+Backend;Apasionado+por+Python+y+Django" alt="Typing SVG" />
 </div>
 
-# 👨‍💻 Afmastro
+# 👨‍💻 Andres Mastrolorenzo
 
 **Desarrollador Backend | Python & Django Enthusiast**
 
@@ -50,5 +50,5 @@
   
   <p><em>"El backend es el corazón invisible que hace que todo funcione."</em></p>
   
-  ¡Gracias por visitar! Si tienes ideas para colaborar, ¡házmelo saber! 🚀
+  ¡Gracias por visitarme! Si tienes ideas para colaborar, ¡házmelo saber! 🚀
 </div>
