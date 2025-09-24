@@ -13,7 +13,7 @@
 
 ## 🔧 Sobre mí
 
-- 🔭 **Actualmente**: Desarrollando aplicaciones backend con Django y SQL.
+- 🔭 **Actualmente**: Desarrollando aplicaciones backend con Python, Django y SQL.
 - 🌱 **Aprendiendo**: MongoDB para bases de datos NoSQL y optimización de APIs.
 - 👯 **Colaborando en**: Proyectos open-source de backend y herramientas de datos.
 - ⚡ **Dato curioso**: Creo que el mejor código es el que resuelve problemas reales con la menor complejidad posible. 🧉 + Código = Mi rutina perfecta.
