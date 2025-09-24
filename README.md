@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4F46E5&center=true&width=500&lines=¡Hola!+Soy+Andres;Desarrollador+Backend;Apasionado+por+Python+y+Django" alt="Typing SVG" />
 </div>
 
-# 👨‍💻 Andres Mastrolorenzo
+# 👨‍💻 
 
 **Desarrollador Backend | Python & Django Enthusiast**
 
