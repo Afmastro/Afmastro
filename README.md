@@ -30,18 +30,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afmastro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&hide=stars,prs" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afmastro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF" width="48%" />
-</div>
-
-## 📈 Actividad Reciente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afmastro&theme=react-dark&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=FFFFFF" />
-</div>
 
 ---
 
