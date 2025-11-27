@@ -6,14 +6,14 @@
 
 **Desarrollador Backend | Python & Django Enthusiast**
 
-¡Hola! Soy un desarrollador backend enfocado en crear soluciones robustas y escalables. Me apasiona construir APIs eficientes con Python y Django, manejando bases de datos SQL con precisión. Próximamente, exploraré MongoDB para proyectos más flexibles. Siempre buscando código limpio y colaboraciones interesantes.
+¡Hola! Soy un desarrollador backend enfocado en crear soluciones robustas y escalables. Me apasiona construir APIs eficientes con Python, manejando bases de datos SQL con precisión. Próximamente, exploraré MongoDB para proyectos más flexibles. Siempre buscando código limpio y colaboraciones interesantes.
 
 📍 De ARGENTINA AL MUNDO!!  
 🌐 www.linkedin.com/in/andresmastrolorenzo
 
 ## 🔧 Sobre mí
 
-- 🔭 **Actualmente**: Desarrollando aplicaciones backend con Python, Django y SQL.
+- 🔭 **Actualmente**: Desarrollando aplicaciones backend con Python y SQL.
 - 🌱 **Aprendiendo**: MongoDB para bases de datos NoSQL y optimización de APIs, capacitandome en SQL y n8n.
 - 👯 **Colaborando en**: Proyectos open-source de backend y herramientas de datos.
 - ⚡ **Dato curioso**: Creo que el mejor código es el que resuelve problemas reales con la menor complejidad posible. 🧉 + Código = Mi rutina perfecta.
